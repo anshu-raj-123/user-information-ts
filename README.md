@@ -27,3 +27,7 @@ Tailwind CSS: Utilized for rapid UI development with utility-first CSS classes.
 Framer Motion: Employed for adding animations and transitions to enhance user experience.
 JSONPlaceholder API: Used as the source for fetching user data.
 
+
+Deployed Application
+You can access the deployed application (https://user-information-123.netlify.app/).
+
